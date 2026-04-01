@@ -1,0 +1,62 @@
+body{
+    background: url(imagens/fundo\ praca.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1{
+    color: aliceblue;
+    font-family: "Trirong" serif;
+}
+
+ p{
+    color: antiquewhite;
+    text-align: justify;
+    text-shadow: 2px 2px 5px #332e21;
+    justify-content: center;
+    font-family: Tahoma, Verdana, sans-serif;
+ }
+h2{
+    color: aliceblue;
+    font-family: "Garamond", Georgia, serif;
+}
+img{
+    width: 15%;
+    height: auto;
+    border: 2px solid antiquewhite;
+    border-radius: 10px;
+    justify-items: left;
+}
+.container{
+    border: 1px solid #7a7263;
+    margin: 0 auto;
+    width: 720px;
+    background-color: #7a7263;
+    justify-items: center;
+}
+.lugares{
+    border: 2px solid  #7a7263;
+    width: 540px;
+}
+.lugar{
+    border: 2px solid #998e7b77;
+    background-color: #d6ccb977;
+    justify-items: center;
+    padding: 15px;
+    overflow: hidden;
+    
+}
+
+.lugar img{
+    width: 20%;
+    height: auto;
+    border: 2px solid antiquewhite;
+    border-radius: 10px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
